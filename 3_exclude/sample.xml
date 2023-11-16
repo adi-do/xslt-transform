@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <department name="HR">
+        <employee>
+            <firstName>John</firstName>
+            <lastName>Doe</lastName>
+        </employee>
+        <employee>
+            <firstName>Jane</firstName>
+            <lastName>Doe</lastName>
+        </employee>
+    </department>
+    <department name="IT">
+        <employee>
+            <firstName>Bob</firstName>
+            <lastName>Smith</lastName>
+        </employee>
+        <employee>
+            <firstName>Alice</firstName>
+            <lastName>Johnson</lastName>
+        </employee>
+    </department>
+</company>
