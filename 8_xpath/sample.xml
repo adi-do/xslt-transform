@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <department name="HR">
+    <employee id="1">
+      <firstName>John</firstName>
+      <lastName>Doe</lastName>
+      <status>Active</status>
+    </employee>
+    <employee id="2">
+      <firstName>Jane</firstName>
+      <lastName>Doe</lastName>
+      <status>Inactive</status>
+    </employee>
+  </department>
+  <department name="IT">
+    <employee id="3">
+      <firstName>Bob</firstName>
+      <lastName>Smith</lastName>
+      <status>Active</status>
+    </employee>
+    <employee id="4">
+      <firstName>Alice</firstName>
+      <lastName>Johnson</lastName>
+      <status>Active</status>
+    </employee>
+  </department>
+</company>

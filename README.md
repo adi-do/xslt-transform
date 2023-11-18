@@ -95,3 +95,8 @@ Now, you can concatenate the two commands as follows:
 ```bash
 some_var=$(xsltproc 7_in_out/transform-A.xsl 7_in_out/sample.xml) && xsltproc --stringparam envVar "$some_var" 7_in_out/transform-B.xsl 7_in_out/input.xml | xsltproc 7_in_out/transform-C.xsl -
 ```
+
+#### Apply-templates
+```bash
+xsltproc 8_xpath/transform.xsl 8_xpath/sample.xml
+```
