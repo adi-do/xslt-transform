@@ -1,0 +1,13 @@
+<root>
+    <messages from="adrian">
+        <message>Hello, world!</message>
+    </messages>
+
+    <messages from="world">
+        <message>Hello, adrian!</message>
+    </messages>
+
+    <messages from="apic">
+        <message>Hello, ibm!</message>
+    </messages>
+</root>
